@@ -1,0 +1,6 @@
+{
+  "name": "FloraCare",
+  "description": "AI Gardening Assistant & Plant Identifier. Identifies plants from photos, provides detailed care instructions, manages your garden, and features an AI Plant Doctor chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
